@@ -24,6 +24,8 @@ test                  Terminating   43s
 
 ## Installation
 
+- Install jq (https://stedolan.github.io/jq/download/)
+
 - Download k8sdelns sources
 ```bash
 curl -Lo v1.0.tar.gz https://github.com/jenoOvchi/k8sdelns/archive/v1.0.tar.gz
